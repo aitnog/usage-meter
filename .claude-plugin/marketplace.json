@@ -1,0 +1,5 @@
+{
+  "name": "usage-meter",
+  "owner": { "name": "aitnog" },
+  "plugins": [{ "name": "usage-meter", "source": "./", "description": "Live usage meter pane: rate limits, context, session and monthly cost" }]
+}
